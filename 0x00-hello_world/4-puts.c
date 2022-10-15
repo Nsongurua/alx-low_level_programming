@@ -1,13 +1,11 @@
 #include <stdio.h>
-
-/**
- * main - script c print.
+/*
+ * main - script c print using puts.
  *
- * return : Always 0 (Succesful)
+ * return: 0
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-
 	return (0);
 }
