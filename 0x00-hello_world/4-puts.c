@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - script c print
+ * main - script c for print.
  *
  * return : Always 0 (Succesful)
  */
