@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s intel_syntax SCFILE
+gcc -s export CFILE =0 SCFILE
