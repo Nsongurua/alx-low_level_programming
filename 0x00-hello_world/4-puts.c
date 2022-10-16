@@ -4,7 +4,7 @@
  *
  * description: print a line of code
  *
- * return:0
+ * Return:0
 */
 int main(void)
 {
