@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main - print a line of code using puts
+ * main - c scripting
  *
- * return: 0
+ * description: print a line of code
+ *
+ * return:0
 */
 int main(void)
 {
