@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include <stdio.h>
 
 /**
@@ -9,15 +8,10 @@
 
 int main(void)
 {
-	int z;
+	char letter;
 
-	z = 'z';
-
-	while (z >= 'a')
-	{
-		putchar(z);
-		++z;
-	}
+	for (letter = 'z'; letter >= 'a'; letter--)
+		putchar(letter);
 
 	putchar('\n');
 
