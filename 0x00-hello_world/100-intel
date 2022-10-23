@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s export CFILE =0 SCFILE
+gcc -S -masm=intel $CFILE
