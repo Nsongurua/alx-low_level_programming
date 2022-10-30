@@ -2,7 +2,6 @@
 
 /**
  * _strncat - function to concatenate two strings
- * 
  * @src: The source of strings
  * @dest: The destination of the string
  * @n: amount of bytes used from src
@@ -16,7 +15,7 @@ char *_strncat(char *dest, char *src, int n)
 	i = 0;
 	while (dest[i] != '\0')
 	{
-	       	i++;
+	      i++;
 	}
 
 	j = 0;
