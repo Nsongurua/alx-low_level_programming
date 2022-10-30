@@ -1,1 +1,1 @@
-results for more pointers, arrays
+task results for more pointers, arrays and strings
